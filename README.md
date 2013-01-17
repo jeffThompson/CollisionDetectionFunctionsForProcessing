@@ -1,3 +1,5 @@
+![screenshot](https://raw.github.com/jeffThompson/CollisionDetectionFunctionsForProcessing/master/CollisionLogo.png)
+
 COLLISION DETECTION FUNCTIONS (Version 0.9)
 =======================
 
