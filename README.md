@@ -1,7 +1,8 @@
 ![screenshot](https://raw.github.com/jeffThompson/CollisionDetectionFunctionsForProcessing/master/CollisionLogo.png)
 
-COLLISION DETECTION FUNCTIONS (Version 0.9)
+COLLISION DETECTION FUNCTIONS
 =======================
+(Version 0.9)
 
 A set of functions to do basic 2d collision detection in Processing (www.processing.org).
 
