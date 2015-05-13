@@ -2,7 +2,10 @@
 
 COLLISION DETECTION FUNCTIONS
 =======================
-(Version 0.9)
+####*Please note: this project has moved to an [updated repository](https://github.com/jeffThompson/CollisionDetection) with full explanations of the code in book form.*  
+See: [https://github.com/jeffThompson/CollisionDetection](https://github.com/jeffThompson/CollisionDetection)
+
+\- \- \-
 
 A set of functions to do basic 2d collision detection in Processing (www.processing.org).
 
